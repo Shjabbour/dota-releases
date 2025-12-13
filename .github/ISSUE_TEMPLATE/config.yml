@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FAQ
+    url: https://dota2-timer.vercel.app/faq
+    about: Check the FAQ for common questions before opening an issue
+  - name: Discord Community
+    url: https://discord.gg/dota2
+    about: Join the Dota 2 community for general questions
