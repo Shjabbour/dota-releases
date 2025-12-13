@@ -12,3 +12,15 @@ Visit the [Releases](https://github.com/Shjabbour/dota-releases/releases) page t
 - **macOS**: .dmg (coming soon)
 - **Linux**: .AppImage (coming soon)
 
+## Need Help?
+
+- **Found a bug?** [Report it here](https://github.com/Shjabbour/dota-releases/issues/new?template=bug_report.md)
+- **Have a feature idea?** [Request it here](https://github.com/Shjabbour/dota-releases/issues/new?template=feature_request.md)
+- **Have a question?** [Ask here](https://github.com/Shjabbour/dota-releases/issues/new?template=question.md)
+- **Check our [FAQ](https://dota2-timer.vercel.app/faq)** for common questions
+
+## Links
+
+- [Website](https://dota2-timer.vercel.app)
+- [FAQ](https://dota2-timer.vercel.app/faq)
+- [Changelog](https://dota2-timer.vercel.app/changelog)
