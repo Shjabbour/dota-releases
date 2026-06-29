@@ -6,6 +6,11 @@ This repository hosts the desktop app releases for [Dota 2 Timer](https://dota2-
 
 Visit the [Releases](https://github.com/Shjabbour/dota-releases/releases) page to download the latest version.
 
+## Code Signing
+
+Windows installers are expected to be Authenticode signed before publication.
+See [CODE_SIGNING.md](CODE_SIGNING.md) for the release signing policy.
+
 ## Platforms
 
 - **Windows**: .exe installer
