@@ -10,6 +10,7 @@ This public repository hosts release files for [DotaSense](https://dotasense.com
 - [Compare picks with the Dota 2 hero picker guide](https://dotasense.com/guides/hero-picker)
 - [Track enemy spells with the cooldown tracker guide](https://dotasense.com/guides/cooldown-tracker)
 - [Plan useful vision with the ward spots guide](https://dotasense.com/guides/warding)
+- [Install the Windows app with Scoop](https://github.com/Shjabbour/scoop-dotasense)
 - [Review the current Windows release evidence](https://dotasense.com/download#windows-release-evidence)
 - [Read the version history](https://dotasense.com/changelog)
 
@@ -30,6 +31,15 @@ Use Dota 2 in Borderless Window mode when you want the visual overlay above the 
 ## Downloads
 
 Open [GitHub Releases](https://github.com/Shjabbour/dota-releases/releases) and choose the release identified by the DotaSense release-evidence panel. Verify the filename and SHA-256 before running an installer, and follow the signing or SmartScreen guidance shown for that exact release.
+
+### Install with Scoop
+
+The official vendor-maintained [DotaSense Scoop bucket](https://github.com/Shjabbour/scoop-dotasense) downloads the versioned release, verifies its SHA-256, and extracts the app without running the NSIS installer:
+
+```powershell
+scoop bucket add dotasense https://github.com/Shjabbour/scoop-dotasense
+scoop install dotasense/dotasense
+```
 
 ## Safety boundary
 
