@@ -6,6 +6,7 @@ This public repository hosts release files for [DotaSense](https://dotasense.com
 
 - [Explore the DotaSense timer app](https://dotasense.com/)
 - [Use the manual browser timer without installing](https://dotasense.com/timer)
+- [Use the reviewed Dota 2 timing reference (JSON and CSV)](https://dotasense.com/cheat-sheet)
 - [Review the current Windows release evidence](https://dotasense.com/download#windows-release-evidence)
 - [Read the version history](https://dotasense.com/changelog)
 
