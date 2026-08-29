@@ -13,6 +13,12 @@ This public repository hosts release files for [DotaSense](https://dotasense.com
 - [Review the current Windows release evidence](https://dotasense.com/download#windows-release-evidence)
 - [Read the version history](https://dotasense.com/changelog)
 
+## Set up the Windows app
+
+- [Install or repair Dota 2 Game State Integration](https://dotasense.com/guides/game-state-integration)
+- [Create recurring events and manual cooldown timers](https://dotasense.com/guides/custom-timers)
+- [Configure the overlay for Borderless Window, hotkeys, and multiple monitors](https://dotasense.com/guides/overlay-setup)
+
 ## Before installing
 
 The [release-evidence panel](https://dotasense.com/download#windows-release-evidence) is the maintained source for the current version, filename, file size, publication date, SHA-256 checksum, and signing status. A public artifact is not automatically treated as broadly launch-ready: DotaSense keeps broad Windows promotion held until its signing and source-build QA gates pass.
